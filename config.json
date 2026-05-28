@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcecrypt",
+        "uuid": 30930462,
+        "checksum": "bgw6qc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
